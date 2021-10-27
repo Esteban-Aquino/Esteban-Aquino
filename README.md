@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esteban Aquino</h1>
 <h3 align="center">I am a programmer specialized in databases, on my way to become a fullstack developer</h3>
 
-- 🌱 I’m currently learning **Angular, Flutter, Go**
+- 🌱 I’m currently learning **Angular, Flutter, Go, Oracle APEX**
 
 - 💬 Ask me about **Oracle DB**
 
