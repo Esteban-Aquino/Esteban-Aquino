@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Esteban Aquino</h1>
-<h3 align="center">I am a programmer specialized in databases, on my way to become a fullstack developer</h3>
+<h3 align="center">I am a programmer specialized in databases, on my way to become a Data Engineer</h3>
 
-- 🌱 I’m currently learning **Angular, Flutter, Go, Oracle APEX**
+- 🌱 I’m currently learning **Snowflake DB, Logi Info, Matillion, Databricks**
 
 - 💬 Ask me about **Oracle DB**
 
